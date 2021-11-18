@@ -12,8 +12,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-Structor Project:
-# app____public
+
+# Structor Project
     |__src____assets: img, video
     |       |__views:
     |       |__components: 
